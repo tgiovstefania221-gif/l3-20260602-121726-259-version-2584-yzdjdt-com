@@ -1,0 +1,20 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_assigned_movies": 2000,
+  "html_pages": 2014,
+  "baidu_missing_pages": [],
+  "image_files_in_zip_source": [],
+  "category_distribution": {
+    "亚洲高分": 200,
+    "热播榜单": 200,
+    "年度新片": 200,
+    "剧情文艺": 200,
+    "悬疑犯罪": 200,
+    "爱情青春": 200,
+    "动作奇幻": 200,
+    "喜剧生活": 200,
+    "家庭治愈": 200,
+    "精选片库": 200
+  }
+}
